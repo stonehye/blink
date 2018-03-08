@@ -1,13 +1,13 @@
 3월 7일 과제 입니다.
 
 파일 목록
-————-
+----
 1. Blink.cpp - 라이브러리 cpp 파일
 2. Blink.h - 라이브러리 헤더 파일
 3. blink.ino - 스케치 파일
 
-라이브러리 설명
-————-
+라이브러리 구성
+----
 * Blink::Blink(int pin)
 > 생성자 함수입니다. private 변수 _pin을 셋팅합니다.
 * Blink::off(int n)
