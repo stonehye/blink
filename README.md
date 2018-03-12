@@ -36,5 +36,5 @@
 비고
 ----
 * ThingSpeak URL: https://thingspeak.com/channels/446957
-* 수집 시작 시각: 2018-03-12 13:02:28
+* 수집 시작 시각:
 * 1분(60초) 주기로 데이터 수집
