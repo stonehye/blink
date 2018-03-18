@@ -38,3 +38,19 @@
 * ThingSpeak URL: https://thingspeak.com/channels/446957
 * 수집 시작 시각:
 * 1분(60초) 주기로 데이터 수집
+
+
+3월 16일 과제입니다.
+====
+
+파일 목록
+----
+1. ds18b20.ino - ds18b20으로 수집한 데이터를 IFTTT(Webhooks)에 올리고 IFTTT에서 설정한 applet에 의해 LINE 메신저앱으로 메신저를 전송합니다.
+
+비고
+----
+* 5초 주기로 데이터 전송
+* 전 과제(ThingSpeak 연결)는 전처리기문으로 처리
+
+
+
